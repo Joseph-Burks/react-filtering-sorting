@@ -1,0 +1,165 @@
+{
+    "players": [
+        {
+            "name": "James Harden",
+            "position": "Guard",
+            "team": "Brooklyn Nets",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png",
+            "age": 31,
+            "id": 1
+        },
+        {
+            "name": "Donovan Mitchell",
+            "position": "Guard",
+            "team": "Utah Jazz",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png",
+            "age": 24,
+            "id": 2
+        },
+        {
+            "name": "Luka Doncic",
+            "position": "Guard",
+            "team": "Dallas Mavericks",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png",
+            "age": 22,
+            "id": 3
+        },
+        {
+            "name": "Kevin Duran",
+            "position": "Forward",
+            "team": "Brooklyn Nets",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png",
+            "age": 32,
+            "id": 4
+        },
+        {
+            "name": "Jayson Tatum",
+            "position": "Forward",
+            "team": "Boston Celtics",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png",
+            "age": 23,
+            "id": 5
+        },
+        {
+            "name": "Lebron James",
+            "position": "Forward",
+            "team": "Los Angeles Lakers",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png",
+            "age": 36,
+            "id": 6
+        },
+        {
+            "name": "Nikola Jokic",
+            "position": "Center",
+            "team": "Denver Nuggets",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png",
+            "age": 26,
+            "id": 7
+        },
+        {
+            "name": "Stephen Curry",
+            "position": "Guard",
+            "team": "Golden State Warriors",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png",
+            "age": 33,
+            "id": 8
+        },
+        {
+            "name": "Joel Embiid",
+            "position": "Center",
+            "team": "Philidelphia 76ers",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png",
+            "age": 27,
+            "id": 9
+        },
+        {
+            "name": "Anthony Davis",
+            "position": "Forward",
+            "team": "Los Angeles Lakers",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png",
+            "age": 28,
+            "id": 10
+        },
+        {
+            "name": "Kawhi Leonard",
+            "position": "Forward",
+            "team": "Los Angeles Clippers",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png",
+            "age": 29,
+            "id": 11
+        },
+        {
+            "name": "Damian Lillard",
+            "position": "Guard",
+            "team": "Portland Trailblazers",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png",
+            "age": 30,
+            "id": 12
+        },
+        {
+            "name": "Devin Booker",
+            "position": "Guard",
+            "team": "Phoenix Suns",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png",
+            "age": 24,
+            "id": 13
+        },
+        {
+            "name": "Paul George",
+            "position": "Guard",
+            "team": "Los Angeles Clippers",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png",
+            "age": 31,
+            "id": 14
+        },
+        {
+            "name": "Ja Morant",
+            "position": "Guard",
+            "team": "Memphis Grizzlies",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629630.png",
+            "age": 21,
+            "id": 15
+        },
+        {
+            "name": "Zion Williamson",
+            "position": "Forward",
+            "team": "New Orleans Pelicans",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png",
+            "age": 20,
+            "id": 16
+        },
+        {
+            "name": "Jimmy Butler",
+            "position": "Forward",
+            "team": "Miami Heat",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202710.png",
+            "age": 31,
+            "id": 17
+        },
+        {
+            "name": "Kyrie Irving",
+            "position": "Guard",
+            "team": "Brooklyn Nets",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png",
+            "age": 29,
+            "id": 18
+        },
+        {
+            "name": "Bradley Beal",
+            "position": "Guard",
+            "team": "Washington Wizards",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203078.png",
+            "age": 27,
+            "id": 19
+        },
+        {
+            "name": "Giannis Antetokounmpo",
+            "position": "Forward",
+            "team": "Milwuakee Bucks",
+            "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png",
+            "age": 26,
+            "id": 20
+        }
+        
+    ]
+}
